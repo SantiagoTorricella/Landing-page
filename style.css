@@ -1,0 +1,35 @@
+body {
+  font-family: "Roboto", arial;
+}
+
+.header {
+  background-color: #1f2937;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.header-arriba {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.header-der {
+  text-align: center;
+  display: flex;
+  gap: 10px;
+}
+
+.centro-header {
+  display: flex;
+  justify-content: space-around;
+}
+
+.centro-der {
+  background-color: gray;
+  text-align: center;
+}
