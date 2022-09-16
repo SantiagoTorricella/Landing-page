@@ -24,7 +24,7 @@ HEADER
   background-color: #1f2937;
   display: flex;
   flex-direction: column;
-  padding: 2em;
+  padding: 2em 7em;
 }
 
 .header-arriba {
@@ -49,7 +49,7 @@ HEADER
 }
 
 .Bienvenida {
-  padding: 7em 0;
+  padding: 7em 0em;
   display: flex;
   width: 100%;
   justify-content: space-between;
@@ -60,6 +60,7 @@ HEADER
 .Bienvenida-izq {
   display: flex;
   flex-direction: column;
+  gap: 1.5em;
 }
 
 .Bienvenida-der {
