@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
 
+* {
+  margin: 0px;
+}
+
 body {
   font-family: "Roboto", sans-serif;
 }
@@ -47,7 +51,8 @@ HEADER
 .Bienvenida {
   padding: 7em 0;
   display: flex;
-  justify-content: center;
+  width: 100%;
+  justify-content: space-between;
   align-items: center;
   gap: 5em;
 }
