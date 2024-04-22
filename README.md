@@ -1,2 +1,3 @@
 # Landing-page
-Segundo proyecto de odin
+Landing Page generica para pulir habilidades de html y css
+[Link](https://santiagotorricella.github.io/Landing-page/)
